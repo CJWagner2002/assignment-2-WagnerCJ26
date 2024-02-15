@@ -1,0 +1,46 @@
+#box {
+    border: 4px solid rgb(2, 78, 49);
+    width: 100%;
+    padding : 50px;
+}
+
+.invis-box
+{
+   margin-bottom: 50px;
+}
+
+.wrapper
+{
+    max-width: 200px;
+    height: 50px;
+}
+
+.padding
+{
+    padding: 50px;
+}
+
+
+.boxy-work
+{
+    background: #ff8a82;
+    border: 1px solid black;
+}
+
+.boxy-school
+{
+    background: #ada08a;
+    border: 1px solid black;
+}
+
+.boxy-white
+{
+    background: #ffffff;
+    border: 1px solid black;
+}
+
+.boxy-light
+{
+    background: #ebebeb;
+    border: 1px solid black;
+}
